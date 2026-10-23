@@ -1,0 +1,24 @@
+# Compiled Java files and IDE output
+*.class
+*.jar
+/out/
+/build/
+/bin/
+/.idea/
+*.iml
+/.settings/
+.classpath
+.project
+
+# Local application records and temporary files
+/accounts.txt
+/orders.txt
+/menu.txt
+/team.txt
+/user_data.txt
+/data/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
