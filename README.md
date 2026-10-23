@@ -108,4 +108,4 @@ javac -encoding UTF-8 -d out src/*.java tests/CoffeeShopTests.java
 java -cp out CoffeeShopTests
 ```
 
-The tests create temporary data outside the project. GUI checks require a display. See [CHANGES.md](CHANGES.md) for the changes from the original version.
+The tests create temporary data outside the project.
